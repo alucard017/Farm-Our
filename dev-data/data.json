@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "productName": "Fresh Mangoes",
+    "image": "🥭",
+    "from": "North-Eastern India",
+    "nutrients": "Vitamin A, Vitamin C",
+    "quantity": "4 🥭",
+    "price": "10.50",
+    "organic": true,
+    "description": "Fresh mangoes are tropical fruits prized for their sweet, juicy flesh and fragrant aroma. Available in a variety of cultivars such as Alphonso, Haden, Tommy Atkins, Ataulfo, and Kent, mangoes range in color from green to yellow, orange, or red, depending on ripeness and type. Their flavor profile is characterized by a delightful balance of sweetness and tanginess, enriched with vitamins A and C, as well as fiber and antioxidants like beta-carotene. Mangoes typically ripen after harvest and can be enjoyed fresh, sliced, or incorporated into dishes like salads, smoothies, desserts, salsas, and chutneys. Revered in many cultures, particularly in South Asia where they hold cultural significance, mangoes are celebrated for their versatility and nutritional benefits."
+  },
+  {
+    "id": 1,
+    "productName": "Cow Cheese",
+    "image": "🧀",
+    "from": "India",
+    "nutrients": "Vitamin A, Calcium",
+    "quantity": "250g",
+    "price": "5.00",
+    "organic": false,
+    "description": "Creamy and distinct in flavor, Cow cheese is a dairy product enjoyed around the world. Cow cheese comes in a wide variety of flavors and textures, from soft and spreadable fresh cheese to salty, crumbly aged cheese. Although it’s made using the same coagulation and separation process as cheese made from goat's milk, cow's cheese differs in nutrient content."
+  },
+  {
+    "id": 2,
+    "productName": "Purple Grapes",
+    "image": "🍇",
+    "from": "Portugal",
+    "nutrients": "Vitamin C, Vitamin K",
+    "quantity": "3 🍇",
+    "price": "7.50",
+    "organic": true,
+    "description":"Grapes are versatile fruits known for their sweet flavor and various colors, including green, red, and purple, depending on the variety such as Thompson Seedless, Red Globe, Concord, and Muscat. They are typically small and round with a smooth or slightly crunchy texture. Grapes are rich in vitamins C and K, as well as antioxidants like resveratrol, which may have health benefits. These fruits can be enjoyed fresh as a refreshing snack or added to salads, fruit bowls, and cheese platters. Grapes are also used to make juices, jams, jellies, and wine, showcasing their culinary versatility. Culturally, grapes hold significance in rituals, festivals, and celebrations worldwide, embodying a symbol of abundance and vitality in various traditions."
+  },
+  {
+    "id": 3,
+    "productName": "Baby Pineapples",
+    "image": "🍍",
+    "from": "South America",
+    "nutrients": "Vitamin C, Vitamin B6",
+    "quantity": "20 🍍",
+    "price": "3.00",
+    "organic": true,
+    "description" : "Pineapples are tropical fruits prized for their sweet, tangy flavor and distinctively spiky appearance. They have a tough, rough skin that transitions from green to yellow as they ripen, enclosing juicy, golden-yellow flesh with a vibrant aroma. Common varieties include the smooth Cayenne and the sweeter Queen Victoria. Pineapples are rich in vitamins C and B6, as well as manganese and bromelain, an enzyme with potential health benefits. They can be enjoyed fresh, sliced, or diced, and are popular additions to fruit salads, smoothies, desserts like pineapple upside-down cake, and savory dishes such as salsas and grilled kebabs. Pineapples also find use in juices, jams, and canned products. Culturally, pineapples symbolize hospitality and welcome in many cultures, and are often featured in decorations and celebrations."
+  },
+  {
+    "id": 4,
+    "productName": "Sweet Corncobs",
+    "image": "🌽",
+    "from": "Germany",
+    "nutrients": "Vitamin C, Magnesium",
+    "quantity": "2 🌽",
+    "price": "2.00",
+    "organic": false,
+    "description": "Also known as maize, corn is one of the most popular cereal grains in the world. Popcorn and sweet corn are commonly eaten varieties, but refined corn products are also widely consumed, frequently as ingredients in foods. These include tortillas, tortilla chips, polenta, cornmeal, corn flour, corn syrup, and corn oil. Whole-grain corn is as healthy as any cereal grain, rich in fiber and many vitamins, minerals, and antioxidants."
+  }
+]
